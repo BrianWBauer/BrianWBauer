@@ -21,7 +21,8 @@ Python · PyTorch · Hugging Face Transformers · Claude and OpenAI APIs · BERT
 
 ## Repositories
 
-- **psychopathology_nlp_toolkit** — Companion code for transformer-based text embedding methods in psychopathology research.
+* **[psychopathology_nlp_toolkit](https://github.com/BrianWBauer/psychopathology_nlp_toolkit)** — Companion code for Bauer et al., "Transformer-Based Text Embeddings for Identifying Higher-Order Constructs in Psychopathology." Four analysis pipelines combining transformer embeddings with dimensionality reduction, clustering, factor analysis, and explainable AI.
+* **[2026_NLP_Crisis](https://github.com/BrianWBauer/2026_NLP_Crisis)** — Active research pipeline analyzing daily open-ended text for real-time suicide crisis prediction. Forthcoming manuscript to *Clinical Psychological Science*.
 
 ## Affiliations
 
