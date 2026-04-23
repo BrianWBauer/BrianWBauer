@@ -17,7 +17,7 @@ Python · PyTorch · Hugging Face Transformers · Claude and OpenAI APIs · BERT
 
 - Bauer, B.W., Norel, R., Leow, A., Rached, Z., Wen, B., & Cecchi, G. (2024). Using Large Language Models to Understand Suicidality in a Social Media-Based Taxonomy of Mental Health Disorders. *JMIR Mental Health*, 11, e57234.
 - Bauer, B.W., & Capron, D.W. (2020). How behavioral economics and nudges could help diminish irrationality in suicide-related decisions. *Perspectives on Psychological Science*, 15(1), 44–61.
-- Full publication list: [Google Scholar]([https://scholar.google.com/citations?user=brian-bauer](https://scholar.google.com/citations?user=r8kXMrIAAAAJ&hl=en&oi=ao)
+- Full publication list: [Google Scholar]([https://scholar.google.com/citations?user=brian-bauer](https://scholar.google.com/citations?user=r8kXMrIAAAAJ&hl=en&oi=ao))
 
 ## Repositories
 
